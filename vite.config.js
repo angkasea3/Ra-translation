@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // Contoh: kalau repo-nya github.com/username/novel-ku, ganti jadi "/novel-ku/"
 export default defineConfig({
   plugins: [react()],
-  base: "/ra-translation/",
+  base: "/Ra-translation/",
 });
